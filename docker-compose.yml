@@ -26,6 +26,3 @@ services:
       database_name: solidinvoice
       database_user: root
       database_password:
-
-volumes:
-  db_data: {}
